@@ -1,5 +1,4 @@
-ls1=["mango","apple","orange"]
-print(ls1)
+
 ls1.append(20) #adding integer
 print(ls1)
 ls1.remove("apple") #removing by name
